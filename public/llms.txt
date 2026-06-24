@@ -1,0 +1,104 @@
+# TopCorner.com — Generative Engine Optimization Map
+
+> An online store specializing in handball accessories and equipment, catering to handball players and enthusiasts. The store focuses on selling sports gear related to the handball sport, positioning itself as a dedicated destination for handball-related products.
+
+---
+
+## Pages
+
+### בית
+https://topcorner-com-b0adb93a.zappy5.app
+החנות המקוונת המובילה לאביזרי כדוריד לשחקנים צעירים ולמועדונים. ציוד מקצועי, משלוח מהיר ומחירים ללא תחרות. היכנס עכשיו וגלה את האוסף החדש!
+
+### למה TopCorner
+https://topcorner-com-b0adb93a.zappy5.app/why-topcorner
+מגיע לך ציוד שעושה את ההבדל במגרש. גלה למה שחקנים ומועדונים בישראל בוחרים ב-TopCorner לאביזרי כדוריד איכותיים, שירות אישי ומשלוחים מהירים. קרא עוד עכשיו.
+
+### קהילה
+https://topcorner-com-b0adb93a.zappy5.app/community
+קהילת TopCorner היא הבית שלך לעדכוני כדוריד חמים, טיפים מקצועיים והטבות בלעדיות. התחבר לשחקנים כמוך, שתף חוויות וקח את המשחק שלך קדימה. בוא להיות חלק!
+
+### צור קשר
+https://topcorner-com-b0adb93a.zappy5.app/contact
+יש שאלה על אביזרי כדוריד לשחקנים צעירים או ציוד למועדון? צוות TopCorner כאן בשבילך! מלא את הטופס, שלח הודעה, ותוך זמן קצר נחזור אליך עם כל התשובות. צור קשר עכשיו.
+
+### Products
+https://topcorner-com-b0adb93a.zappy5.app/products
+המוצרים שלנו - TopCorner.com
+
+### Cart
+https://topcorner-com-b0adb93a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://topcorner-com-b0adb93a.zappy5.app/checkout
+תשלום
+
+### Login
+https://topcorner-com-b0adb93a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://topcorner-com-b0adb93a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://topcorner-com-b0adb93a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://topcorner-com-b0adb93a.zappy5.app/product/:slug
+פרטי המוצר - TopCorner.com
+
+### Category
+https://topcorner-com-b0adb93a.zappy5.app/category/:slug
+מוצרים - TopCorner.com
+
+### תודה שפניתם אלינו
+https://topcorner-com-b0adb93a.zappy5.app/thank-you
+TopCorner.com - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://topcorner-com-b0adb93a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://topcorner-com-b0adb93a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://topcorner-com-b0adb93a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TopCorner.com
+An online store specializing in handball accessories and equipment, catering to handball players and enthusiasts. The store focuses on selling sports gear related to the handball sport, positioning itself as a dedicated destination for handball-related products.
+
+## Target Audience
+- שחקני כדוריד צעירים
+- מאמני כדוריד במועדונים
+- חובבי ספורט חובבנים
+
+## Industry
+Sports Equipment E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://topcorner-com-b0adb93a.zappy5.app/sitemap.xml
+- Robots: https://topcorner-com-b0adb93a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://topcorner-com-b0adb93a.zappy5.app/llms-full.txt
+- Products (JSON): https://topcorner-com-b0adb93a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://topcorner-com-b0adb93a.zappy5.app/product-feed.xml
