@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://topcorner-com-b0adb93a.zappy5.app
+https://example.com
 החנות המקוונת המובילה לאביזרי כדוריד לשחקנים צעירים ולמועדונים. ציוד מקצועי, משלוח מהיר ומחירים ללא תחרות. היכנס עכשיו וגלה את האוסף החדש!
 
 ### למה TopCorner
-https://topcorner-com-b0adb93a.zappy5.app/why-topcorner
+https://example.com/why-topcorner
 מגיע לך ציוד שעושה את ההבדל במגרש. גלה למה שחקנים ומועדונים בישראל בוחרים ב-TopCorner לאביזרי כדוריד איכותיים, שירות אישי ומשלוחים מהירים. קרא עוד עכשיו.
 
 ### קהילה
-https://topcorner-com-b0adb93a.zappy5.app/community
+https://example.com/community
 קהילת TopCorner היא הבית שלך לעדכוני כדוריד חמים, טיפים מקצועיים והטבות בלעדיות. התחבר לשחקנים כמוך, שתף חוויות וקח את המשחק שלך קדימה. בוא להיות חלק!
 
 ### צור קשר
-https://topcorner-com-b0adb93a.zappy5.app/contact
+https://example.com/contact
 יש שאלה על אביזרי כדוריד לשחקנים צעירים או ציוד למועדון? צוות TopCorner כאן בשבילך! מלא את הטופס, שלח הודעה, ותוך זמן קצר נחזור אליך עם כל התשובות. צור קשר עכשיו.
 
 ### Products
-https://topcorner-com-b0adb93a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - TopCorner.com
 
 ### Cart
-https://topcorner-com-b0adb93a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://topcorner-com-b0adb93a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://topcorner-com-b0adb93a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://topcorner-com-b0adb93a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://topcorner-com-b0adb93a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://topcorner-com-b0adb93a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - TopCorner.com
 
 ### Category
-https://topcorner-com-b0adb93a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - TopCorner.com
 
 ### תודה שפניתם אלינו
-https://topcorner-com-b0adb93a.zappy5.app/thank-you
+https://example.com/thank-you
 TopCorner.com - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://topcorner-com-b0adb93a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://topcorner-com-b0adb93a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://topcorner-com-b0adb93a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Sports Equipment E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://topcorner-com-b0adb93a.zappy5.app/sitemap.xml
-- Robots: https://topcorner-com-b0adb93a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://topcorner-com-b0adb93a.zappy5.app/llms-full.txt
-- Products (JSON): https://topcorner-com-b0adb93a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://topcorner-com-b0adb93a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
